@@ -7,4 +7,4 @@ def hello_world():
     return 'Hello, BU 1640704852'
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8000)
+    app.run(debug=True)
